@@ -20,12 +20,6 @@
   </a>
 </div>
 
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucasfacio-dev&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" />
-</p>
-
 ---
 
 ## 🧑‍💻 Sobre Mim
@@ -78,7 +72,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasfacio-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasfacio-dev&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00" alt="GitHub Streak" width="49%" />
 </p>
 
@@ -106,24 +99,20 @@
 ## 📊 Gráfico de Competências
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfacio-dev&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00" alt="Linguagens mais usadas" width="45%" />
-  
-  <br/>
   <br/>
 
   <table>
     <tr>
-      <td><b>☕ Java</b> <br/> <img src="https://progress-bar.dev/75/" width="250" /></td>
-      <td><b>📜 JavaScript</b> <br/> <img src="https://progress-bar.dev/70/" width="250" /></td>
+      <td><b>☕ Java</b> <br/></td>
+      <td><b>📜 JavaScript</b> <br/></td>
     </tr>
     <tr>
-      <td><b>🌐 HTML/CSS</b> <br/> <img src="https://progress-bar.dev/80/" width="250" /></td>
-      <td><b>🐙 Git</b> <br/> <img src="https://progress-bar.dev/65/" width="250" /></td>
+      <td><b>🌐 HTML/CSS</b> <br/></td>
+      <td><b>🐙 Git</b> <br/></td>
     </tr>
     <tr>
-      <td><b>🔤 Inglês</b> <br/> <img src="https://progress-bar.dev/60/" width="250" /></td>
-      <td><b>🧬 POO</b> <br/> <img src="https://progress-bar.dev/70/" width="250" /></td>
+      <td><b>🔤 Inglês</b> <br/></td>
+      <td><b>🧬 POO</b> <br/></td>
     </tr>
   </table>
 
@@ -168,9 +157,9 @@
 
 | 📌 Data | Evento | 📝 Descrição | Status |
 |---------|--------|--------------|---------|
-| **📆 [Adicione]** | **[Seu Evento]** | **[Descrição]** | ⏳ Pendente |
-| **📆 [Adicione]** | **[Seu Evento]** | **[Descrição]** | ⏳ Pendente |
-| **📆 [Adicione]** | **[Seu Evento]** | **[Descrição]** | ⏳ Pendente |
+| **📆 Em Breve** | **Em Breve** | **Em Breve** | ⏳ Pendente |
+| **📆 Em Breve** | **Em Breve** | **Em Breve** | ⏳ Pendente |
+| **📆 Em Breve** | **Em Breve** | **Em Breve** | ⏳ Pendente |
 
 </div>
 
@@ -180,12 +169,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-faccio-7394923b0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-facio-7394923b0/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasfacio-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_f4ccio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfacio.dev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfaciooficial@gmail.com)
 
 </div>
 
@@ -228,7 +215,7 @@
 
 <div align="center">
 
-[![Certificações](https://img.shields.io/badge/Ver%20Certificações-00FF00?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-faccio-7394923b0)
+[![Certificações](https://img.shields.io/badge/Ver%20Certificações-00FF00?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-facio-7394923b0/)
 
 *Minhas certificações estão disponíveis no meu LinkedIn*
 
@@ -302,17 +289,10 @@
 
 <div align="center">
 
-### 🕷️ "Com grandes responsabilidades, vem grandes poderes..."
+### 🌟 "Com grandes responsabilidades, vem grandes poderes..."
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/lucasfacio-dev/lucasfacio-dev/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-<br/>
-
----
-
-**⭐ Não esqueça de dar uma estrela nos repositórios que você gostar! ⭐**
+<img src="https://i.pinimg.com/originals/6f/81/3f/6f813f626456496ad1ba9650874267c7.gif" width="400" />
 
 </div>
