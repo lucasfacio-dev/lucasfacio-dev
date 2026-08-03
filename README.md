@@ -233,7 +233,7 @@
 
 ---
 
-## 🎯 Metas e Objetivos para 2026
+## 🎯 Metas e Objetivos da Semana (NPI)
 
 <div align="center">
   <table>
@@ -243,31 +243,11 @@
     </tr>
     <tr>
       <td>✅</td>
-      <td>Iniciar e avançar no curso de PHP (básico ao intermediário)</td>
+      <td>Criar mais um projeto em Java para testar os conhecimentos</td>
     </tr>
     <tr>
       <td>✅</td>
-      <td>Aprimorar o inglês para nível avançado</td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td>Criar um projeto full-stack completo com Java + React</td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td>Contribuir para projetos open-source</td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td>Construir um portfólio profissional com 5+ projetos</td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td>Participar de pelo menos 2 hackathons</td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td>Conseguir um estágio na área de desenvolvimento</td>
+      <td>Atualizar portfólios da monitoria e outros compromissos com NPI</td>
     </tr>
   </table>
 </div>
@@ -278,10 +258,10 @@
 
 <div align="center">
   <ul align="left">
-    <li>📌 Atualizar README mensalmente</li>
+    <li>📌 Atualizar README sempre</li>
     <li>📌 Adicionar novos projetos conforme forem criados</li>
     <li>📌 Manter contatos atualizados</li>
-    <li>📌 Revisar metas trimestralmente</li>
+    <li>📌 Revisar metas mensalmente</li>
   </ul>
 </div>
 
