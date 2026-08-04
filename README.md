@@ -192,40 +192,6 @@
 
 ---
 
-## 🎯 Metas e Objetivos da Semana (NPI)
-
-<div align="center">
-  <table>
-    <tr>
-      <td>✅</td>
-      <td>Finalizar curso completo de Java (incluindo Java EE e Spring Boot)</td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td>Criar mais um projeto em Java para testar os conhecimentos</td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td>Atualizar portfólios da monitoria e outros compromissos com NPI</td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📝 Notas e Observações
-
-<div align="center">
-  <ul align="left">
-    <li>📌 Atualizar README sempre</li>
-    <li>📌 Adicionar novos projetos conforme forem criados</li>
-    <li>📌 Manter contatos atualizados</li>
-    <li>📌 Revisar metas mensalmente</li>
-  </ul>
-</div>
-
----
-
 <div align="center">
 
 ### 🌟 "Com grandes responsabilidades, vem grandes poderes..."
