@@ -160,7 +160,7 @@
             <img src="https://img.shields.io/badge/Ver%20Projeto-00FF00?style=for-the-badge&logo=github" alt="Ver projeto" />
           </a>
           <p><strong>Descrição:</strong> Projeto em desenvolvimento</p>
-          <p><strong>Tecnologias:</strong> PHP</p>
+          <p><strong>Tecnologias:</strong> Python</p>
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasfacio-dev&repo=[REPO]&theme=radical&hide_border=true&bg_color=0D1117" />
         </div>
       </td>
